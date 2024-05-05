@@ -10,5 +10,28 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^1.6.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arindam200/mediumblog.git"
+  },
+  "keywords": [
+    "medium-blog",
+    "medium",
+    "mediumblog",
+    "blog",
+    "medium api",
+    "medium article",
+    "medium-article",
+    "medium-blog",
+    "blog article",
+    "blog post",
+    "blog api",
+    "blog article api",
+    "blog post api",
+    "medium blog api",
+    "medium blog article",
+    "recent articles",
+    "article api"
+  ]
 }
