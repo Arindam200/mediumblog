@@ -1,6 +1,6 @@
 # @arindam1729/mediumblog
 
-This npm package allows you to easily post a blog article to the dev.to API. It provides a function called `postBlog` that takes in an article object and an API key as parameters. The function returns a promise that resolves to the response data from the API.
+This npm package allows you to easily post a blog article to the Medium. It provides a function called `postBlog` that takes in an article object and an API key as parameters. The function returns a promise that resolves to the response data from the API.
 
 ## Installation
 
