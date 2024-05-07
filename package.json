@@ -1,6 +1,6 @@
 {
   "name": "@arindam1729/mediumblog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to publish Blogs to Medium",
   "main": "index.js",
   "scripts": {
